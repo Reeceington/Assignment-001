@@ -1,0 +1,14 @@
+img {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+}
+
+body{
+    display:flex;
+    margin:-1;
+    padding:-1;
+    min-height: 100vh;
+    background: #FFFF;
+}
+
